@@ -39,7 +39,6 @@
 
 - 📧 Email: devangmishra245@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/devang245](https://linkedin.com/in/devang245)
-- 📁 Portfolio (Coming soon): [GitHub.io Portfolio](https://deva245.github.io)
 
 ---
 
